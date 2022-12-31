@@ -3,9 +3,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Web Scraping projects**
-- 🌱 I’m currently learning **Python & NLP**
-- 💬 Ask me about **C++, C, Flutter**
+- 🔭 I’m currently working on **ML Projects**
+- 🌱 I’m currently learning **Machine Learning**
+- 💬 Ask me about **C++, C, python, Flutter**
 - 📫 How to reach me **palavenkireddy2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
