@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pala Venki Reddy</h1>
-<h3 align="center">Currently Studying BTech 3rd year CSE in IIT Guwahati</h3>
+<h3 align="center">Currently Studying BTech Final year CSE in IIT Guwahati</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **ML Projects**
-- 🌱 I’m currently learning **Machine Learning**
-- 💬 Ask me about **C++, C, python, Flutter**
+- 🔭 I’m currently working on **Deep Learning Projects**
+- 🌱 I’m currently learning **Deep Learning**
+- 💬 Ask me about **C++, C, Flutter, Machine Learning**
 - 📫 How to reach me **palavenkireddy2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
